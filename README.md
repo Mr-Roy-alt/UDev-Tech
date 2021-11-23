@@ -1,2 +1,4 @@
-# UDev-Tech
-This is our personal stuff...
+# UDev-techz
+
+official repo of udev-techz
+
